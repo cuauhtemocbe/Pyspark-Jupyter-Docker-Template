@@ -1,0 +1,9 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Poetry
+poetry.lock
